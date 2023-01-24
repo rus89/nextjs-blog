@@ -18,7 +18,7 @@ export default function FirstPost() {
             <Head>
                 <title>First Post</title>
             </Head>
-            <YourComponent/>
+            <YourComponent />
         </Layout>
     );
 }
